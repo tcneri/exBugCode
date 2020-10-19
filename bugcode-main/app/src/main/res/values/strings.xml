@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Snackbar</string>
+
+
+    <!-- String Login -->
+    <string name="til_username">Nome do usuário</string>
+    <string name="til_password">Senha</string>
+    <string name="btn_login">Login</string>
+    <string name="tv_info">Não tem conta? Cadastre-se</string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <!-- String Cadastro -->
+    <string name="tv_userName">User Name</string>
+    <string name="tv_email">Email</string>
+    <string name="tv_password">Password</string>
+    <string name="btn_cadastrar">CADASTRAR</string>
+    <string name="til_cadastroAc">CADASTRAR</string>
+
+
+    <string name="hello_world">Hello Square World!</string>
+    <string name="til_Email">Email</string>
+    <string name="voltar">Voltar</string>
+    <string name="info">Informações</string>
+</resources>
